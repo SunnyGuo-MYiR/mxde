@@ -1,0 +1,7 @@
+*.o
+*.exe
+debug/
+release/
+obj/
+*.user
+*.user*
